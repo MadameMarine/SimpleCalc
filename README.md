@@ -1,6 +1,6 @@
 SimpleCalc - Starter Code
 =========================
-
+Tuto here : https://codelabs.developers.google.com/codelabs/android-training-unit-tests/index.html?index=..%2F..android-training#0
 SimpleCalc is a simple calculator app, with a handful of problems. This
 app is used to explore the Android Studio debugger. It's also the basis
 for learning about unit testing in SimpleCalcTest.
