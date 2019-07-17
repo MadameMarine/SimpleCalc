@@ -16,7 +16,7 @@
 
 package com.example.android.SimpleCalc;
 
-import android.test.suitebuilder.annotation.SmallTest;
+import android.support.test.filters.SmallTest;
 
 import org.junit.Before;
 import org.junit.Test;
